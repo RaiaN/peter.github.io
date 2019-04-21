@@ -1,0 +1,1 @@
+{"errors":[{"message":"Variable \"$slug\" is never used in operation \"BlogPostBySlug\".","locations":[{"line":2,"column":3}]}],"pageContext":{"isCreatedByStatefulCreatePages":false,"slug":"/c++_pointers/","previous":{"fields":{"slug":"/motivation/"},"frontmatter":{"title":"Technical blog in 202312319?"}},"next":null}}
